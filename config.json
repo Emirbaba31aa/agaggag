@@ -1,0 +1,125 @@
+{
+    "bot": {
+        "token": "MTAyODQzMTU1MDU3Mzk3MzY1Ng.G3lJQZ.NICuLFWtRqk72nVrBQetEMOHtBPqilB2mc2XrA",
+        "owner": "986415932421337119",
+        "prefix": ".",
+        "BotStatus": "Emir ❤️ Alchera",
+        "BotFooter": "Emir ❤️ Alchera",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1027299743027707978",
+            "log": "1027299748203474953",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1027299743027707977",
+            "roles": "1027299742989951102",
+            "log": "1027299748543209604",
+            "channel": "973937303519133715",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1027299743027707975",
+            "roles": "1027299742989951100",
+            "log": "1027299747968598025",
+            "limit": 5
+        },
+            "voicemute": {
+            "staff": "1027299743027707976",
+            "log": "1027299748203474944",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1027299743027707974",
+            "log": "1027299747968598022"
+        },
+        "transport": {
+            "staff": "1027299742989951104"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "1027299748203474947",
+        "rollog": "1027299748203474950",
+        "messagelog": "1027299747968598024",
+        "rolloger": "1027299748203474950",
+        "isimlog": "1029388880480305162",
+        "kayıtlog": "1029388973103132752",
+        "seslog": "1027299748203474945"
+    },
+    "roles": {
+        "booster": "1027606559993372682",
+        "vip": "1027299742960595057",
+        "sponsor": "1027299742960595056",
+        "müzisyen": "1027299742914461834",
+        "team": "1027299742914461832"
+    },
+	    "basvuru": {
+        "basvuruyapchannel": "986593028204552232",
+        "ilkytrolleri": ["973937301682024483", "973937301740736595"],
+        "successMessage": "Tebrikler sunucumuzda yetkili oldun!\n\nDetaylı bilgi için yetkili alım rollerinde ki herhangi bir kişiye yazabilirsin.",
+        "deleteMessage": "Başvurunuz reddedildi, bir kaç saat sonra tekrar başvuru yapabilirsinz.",
+        "staff": "973937301778497569",
+        "log": "986584783436009482",
+        "title": "Yetkili Başvuru İşlemi!",
+        "color": "YELLOW",
+        "description": "Yetkili olmak istiyorsan aşşağıda ki Başvuru butonuna tıklamalısın.\n\nBaşvuru talebini sadece yetkili olmak istiyorsanız açınız.",
+        "sorular": ["isim ve yaşınız.","günde kaç saat aktif olarak discord kullanıyorsunuz.", "sunucumuzda kaç saat aktif kalabilirsiniz?","daha önce yetkili olduğunuz bir sunucu var mıydı? Varsa sunucunun teması neydi?","daha önce yetkili olduğun sunucu da kaç kişi vardı?","eklemek istediğiniz herhangi bir şey varsa belirtebilirsiniz."],
+        "timeout": 2000
+    },
+    "channels": {
+        "chat": "1027299746282479679",
+        "voicechannel": "1027299746282479676",
+        "welcomechannel": "1027299744030142583",
+        "commandchannel": "1027299746282479680",
+        "rules": "1027299744533454955"
+    },
+    "kategoriler": {
+        "publickategorisi": "1027299746282479678",
+        "privatekategorisi": "1027299747171672117"
+    },
+    "registration": {
+        "unregistered": "1027299742864126072",
+        "man": ["1027299742914461828", "1027299742914461827"],
+        "woman": ["1027299742914461830", "1027299742914461829"],
+        "yetkilialim": "1027299743111589925",
+		"botcommands": "1027299746282479680",
+        "staff": "1027299742989951106",
+        "enaltyetkilirolü": "1027299743027707981",
+        "GuilDTag": "✬",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1027299742989951102",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "yasaklıtag": "1027299742989951102",
+        "oneman": "1027299742914461828",
+        "onewoman": "1027299742914461830",
+        "GuildDiscrim": "1502",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1027299741643583570",
+        "GuilDName": "✬ A L C H E R A #YETKİLİ ALIM",
+        "GuildOwnerRole": ["1027299743140946034", "1027299743140946032"]
+    },
+    "emojis": {
+        "tada": "<a:cekilis:995820442877177947>",
+        "yes": "<a:tik:1027962493265522738>",
+        "no": "<a:red:1027610348242604152>"
+    },
+        "buttons": {
+            "giveaway": "973937301635870815",
+            "activity": "973937301635870816",
+            "turnuva": "986534922435039292"
+        }
+    }
+    
